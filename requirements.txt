@@ -1,0 +1,8 @@
+matplotlib
+#ProDy==2.2.0
+pandas<2.0.0
+seaborn
+stmol
+streamlit
+streamlit-aggrid==0.3.3 # pre_selected_rows has no effect in later versions
+streamlit-ext
